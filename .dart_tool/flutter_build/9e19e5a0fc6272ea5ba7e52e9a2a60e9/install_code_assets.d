@@ -1,0 +1,1 @@
+ D:\\flutter_projects_VS\\my_first_app\\.dart_tool\\flutter_build\\9e19e5a0fc6272ea5ba7e52e9a2a60e9\\native_assets.json: 
